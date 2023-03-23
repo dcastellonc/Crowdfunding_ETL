@@ -7,12 +7,12 @@ The instructions for this mini project are divided into the following subsection
 - Create the Crowdfunding Database
 
 
-* Create the Category and Subcategory DataFrames
+Create the Category and Subcategory DataFrames
 Extract and transform the crowdfunding.xlsx . Export the category DataFrame as category.csv  and the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
-* Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
+Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
 Create the Contacts DataFrame
-* Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
+Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
 Option 1: Use Python dictionary methods.
 Option 2: Use regular expressions.
 
