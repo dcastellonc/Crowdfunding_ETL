@@ -30,3 +30,7 @@ Note: Remember to specify the data types, primary keys, foreign keys, and other 
 - Verify the table creation by running a SELECT statement for each table.
 - Import each CSV file into its corresponding SQL table.
 Verify that each table has the correct data by running a SELECT statement for each.
+
+ERD:
+
+![](https://github.com/dcastellonc/Crowdfunding_ETL/blob/main/Campaign_ERD%20.png)
